@@ -9,7 +9,7 @@ TicketMakers is a cloud-hosted concert ticket booking system designed to solve t
 - **Dockerized microservices**
 - **User-friendly booking experience**
 
-## 👩‍💻 My Role: DevOps Engineer
+## 👩‍💻 My Role: System Architect
 - Designed and deployed infrastructure using **Bicep** on Azure
 - Built and managed **Docker** containers
 - Set up **CI/CD pipelines** with GitHub Actions
