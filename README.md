@@ -10,7 +10,7 @@ TicketMakers is a cloud-hosted concert ticket booking system designed to solve t
 - **User-friendly booking experience**
 
 ## 👩‍💻 My Role: System Architect
-- Designed and deployed infrastructure using **Bicep** on Azure
+- Designed and deployed infrastructure using IaC on Azure
 - Built and managed **Docker** containers
 - Set up **CI/CD pipelines** with GitHub Actions
 - Collaborated with the team to test, deploy, and troubleshoot services
@@ -20,9 +20,9 @@ Concert ticketing platforms often suffer traffic spikes, hidden fees, and poor t
 
 ## 🛠️ Tech Stack
 - Azure (AKS, Storage, App Gateway)
-- Bicep
+- Terraform (IaC)
 - Docker
-- GitHub Actions
+- GitHub Actions (CI/CD)
 - Python + Flask (for backend services)
 
 ## 🌍 Live Demo / Deployment (Optional)
