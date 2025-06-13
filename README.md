@@ -29,9 +29,8 @@ TicketMakers tackles key challenges in concert ticketing—such as performance i
 
 ## 📷 Screenshots
 
-![image](https://github.com/user-attachments/assets/81691c70-eaef-4370-ad66-2d67ea8aca88)
-![image](https://github.com/user-attachments/assets/074d8ed1-f4d9-4537-9d3a-3d07f84c92d6)
-
+![image](https://github.com/user-attachments/assets/81cd14c6-d9ef-405d-94cf-0cb0cae199e7)
+![image](https://github.com/user-attachments/assets/fda89e89-8aa5-44fd-ba30-c4b8eedc42fc)
 
 ## 📫 Contact Me
 Email: mubashirasajid@gmail.com  
